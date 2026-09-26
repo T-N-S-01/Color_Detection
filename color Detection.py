@@ -1,4 +1,4 @@
-#color detection
+#color detection...
 import cv2
 import numpy as np
 
