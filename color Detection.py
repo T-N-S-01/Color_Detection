@@ -6,7 +6,7 @@ image = cv2.imread("C:\\Users\\tharu\\Downloads\\Gemini_Generated_Image_bmogxwbm
 
 def empty(a):
     pass
-
+#control
 cv2.namedWindow("Trackbars")
 cv2.createTrackbar("Hue Min", "Trackbars", 0, 179, empty)
 cv2.createTrackbar("Hue Max", "Trackbars", 179, 179, empty)
